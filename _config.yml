@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "VOM: a visual storytelling studio"
+  name             : "VOM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "a visual storytelling studio"
   location         : "Ansan, KR"
   email            :
   links:
